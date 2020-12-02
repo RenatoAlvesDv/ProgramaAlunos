@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\bin\Debug\netcoreapp3.1\ProgramaAlunos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ProgramaAlunos\obj\Debug\netcoreapp3.1\ProgramaAlunos.genruntimeconfig.cache
